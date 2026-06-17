@@ -8,7 +8,7 @@
             </div>
             <div class="dropdown card-fab">
                 <button type="button" class="btn btn-light btn-sm rounded-circle fab dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <i class="fa fa-ellipsis-v"></i>
+                    <i class="fas fa-ellipsis-v"></i>
                 </button>
                 <ul class="dropdown-menu dropdown-menu-end p-1">
                     <!-- IF !isSelf -->
